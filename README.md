@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Van1th
+- 👀 I’m interested in developing python skills.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me nana.amanfo16@tpc.academy
